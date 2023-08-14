@@ -1,1 +1,1 @@
-# rriculum-Bruce-Wayne
+# Curriculum-Bruce-Wayne
